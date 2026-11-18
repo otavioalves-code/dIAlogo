@@ -54,15 +54,15 @@ Ao criar ou modificar arquivos de texto, Issue ou PR, utilize **UTF-8** (prefere
 
 ### Issue tracker
 
-Issues deste projeto são acompanhados no GitHub Issues. O setup das skills grava aqui os links para `docs/agents/`: acrescente-os a este bloco, sem criar um bloco duplicado.
+Issues deste projeto são acompanhados no GitHub Issues. See `docs/agents/issue-tracker.md`.
 
 ### Triage labels
 
-Use os cinco rótulos padrão de triagem: `needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human` e `wontfix`.
+Use os cinco rótulos padrão de triagem: `needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human` e `wontfix`. See `docs/agents/triage-labels.md`.
 
 ### Domain docs
 
-Este projeto usa documentação de domínio single-context.
+Este projeto usa documentação de domínio single-context. See `docs/agents/domain.md`.
 
 Se `GLOSSARY.md` e `docs/adr/` ainda não existirem, não os prometa nem os crie sem demanda real. Quando existirem, passam a ser a fonte de vocabulário e de decisões.
 
